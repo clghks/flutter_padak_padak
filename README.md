@@ -1,8 +1,8 @@
 # 파닥파닥 스터디
 ## 강의 내용을 실습하기 위한 Git
 
-파닥파닥 Flutter (빠르고 가볍게 Flutter 흔들기)
-https://edu.goorm.io/learn/lecture/17450/파닥파닥-flutter-빠르고-가볍게-flutter-흔들기
+* 파닥파닥 Flutter (빠르고 가볍게 Flutter 흔들기)
+* https://edu.goorm.io/learn/lecture/17450/파닥파닥-flutter-빠르고-가볍게-flutter-흔들기
 
 ## Getting Started
 
